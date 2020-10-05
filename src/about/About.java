@@ -252,7 +252,7 @@ public class About extends javax.swing.JDialog {
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         try {
-            Desktop.getDesktop().browse(new URI("https://www.facebook.com/rojeru.san"));
+            Desktop.getDesktop().browse(new URI("https://www.facebook.com/miguel.villalba.750"));
         } catch (IOException | URISyntaxException ex) {
             Logger.getLogger(About.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -260,7 +260,7 @@ public class About extends javax.swing.JDialog {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         try {
-            Desktop.getDesktop().browse(new URI("https://www.youtube.com/channel/UC9XUZKjY8JL9H-BEeFhZicA"));
+            Desktop.getDesktop().browse(new URI("https://www.youtube.com/channel/UC8YjXlCkepJ9KK4eUClAklA"));
         } catch (IOException | URISyntaxException ex) {
             Logger.getLogger(About.class.getName()).log(Level.SEVERE, null, ex);
         }
